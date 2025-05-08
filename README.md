@@ -2,7 +2,7 @@
 
 # Adidas Manuel Functional Test – Erkek Koşu Ayakkabıları Kategori Sayfası
 
-Bu projede adidas.com.tr sitesindeki erkek koşu ayakkabıları kategori sayfası için manuel test senaryoları hazırladım.
+Bu projede adidas.com.tr sitesindeki erkek koşu ayakkabıları kategori sayfası için Jira kullanarak manuel test senaryoları hazırladım.
 
 Test senaryoları PDF dosyası olarak eklenmiştir.
 
